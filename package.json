@@ -2,7 +2,7 @@
   "name": "vue-remember-me",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --open --host",
     "build": "vite build",
     "serve": "vite preview"
   },
